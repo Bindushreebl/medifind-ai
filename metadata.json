@@ -1,0 +1,6 @@
+{
+  "name": "MediFind – Medicine Availability & Pharmacy Finder",
+  "description": "Find medicine availability, compare pharmacy prices, and discover nearby pharmacies with safe pharmacist-verified alternatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
